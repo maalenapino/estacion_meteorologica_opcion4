@@ -13,4 +13,4 @@ Somos el Grupo 4 "Plan B" de 5to Año ProA.
 Este proyecto tiene como objetivo investigar cómo se realizan las observaciones meteorológicas, cómo se recopilan los datos atmosféricos y cómo se elaboran los pronósticos del tiempo.
 
 ## Estado del proyecto
-En desarrollo.
+En desarrollo y muy dispuestos a trabajar.
