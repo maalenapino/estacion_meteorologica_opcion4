@@ -16,12 +16,18 @@ Este proyecto tiene como objetivo investigar cómo se realizan las observaciones
 ## Estado del proyecto
 En desarrollo y muy dispuestos a trabajar.
 
-## distintos puntos 
+## Distintos puntos 
 ### Objetivos
 -Realizamos un maquetado para poder hacer a escala nuestra estación meteorológica. 
 -Conectamos los distintos cables, resistencias, leds, sensores a la placa arduino y a la proto para simular nuestra estación. 
 -Realización de códigos para el funcionamiento de nuestra estación.
 -División de trabajo
 -Simulación en tinkercad 
+
+### Distintos códigos que usamos
+Usamos distintos lenguajes de programación como: Python para hacer la app y que funcione como un puente para unir los registros de mysql y el código para la placa arduino en Arduino Uno
+Mysql para que cree una base de datos y almacene las mediciones de temperatura,humedad y sensor de Gas
+Arduino Uno para realizar el código que va a tener la placa arduino
+
 
 
