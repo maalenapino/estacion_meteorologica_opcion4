@@ -36,5 +36,9 @@ Problemas con la conexión de los sensores, al ejecutar el código en arduino en
 La versión final del maquetado va a ser difícil de realizar porque tenemos que hacer todas las conexiones y lograr que funcione bien en cada sector
 
 
+### División de trabajo
+En cada clase van dos estudiantes para poder ir mejorando la simulación con los distintos materiales y a la par de eso vamos mejorando el código para que en un tiempo agreguemos la pantalla.
+Con respecto al maquetado nos dividimos en dos grupos encargados de la planificación 
+
 
 
