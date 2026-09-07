@@ -3,8 +3,9 @@
 Somos el Grupo 4 "Plan B" de 5to Año ProA.
 
 ## Integrantes
-- Joaquín López Reinoso
-- Thiago Malena Pino
+- Joaquín López 
+- Thiago Reinoso
+- Malena Pino
 - Alejandro Guevara
 - Joaquín Motta
 - Luisana Collino
@@ -14,3 +15,5 @@ Este proyecto tiene como objetivo investigar cómo se realizan las observaciones
 
 ## Estado del proyecto
 En desarrollo y muy dispuestos a trabajar.
+
+
