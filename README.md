@@ -38,7 +38,7 @@ La versión final del maquetado va a ser difícil de realizar porque tenemos que
 
 ### División de trabajo
 En cada clase van dos estudiantes para poder ir mejorando la simulación con los distintos materiales y a la par de eso vamos mejorando el código para que en un tiempo agreguemos la pantalla.
-Con respecto al maquetado nos dividimos en dos grupos encargados de la planificación 
+Con respecto al maquetado nos dividimos en dos grupos encargados de la planificación.
 
-
-
+###Testeo de prueba
+Conectamos la Placa arduino y ejecutamos el código, Nos fuimos afuera para tomar mediciones del día y esas mediciones se quedaron en la tabla de Mysql.
