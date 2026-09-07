@@ -30,7 +30,7 @@ Mysql para que cree una base de datos y almacene las mediciones de temperatura,h
 Arduino Uno para realizar el código que va a tener la placa arduino
 
 
-Conflictos y resolución
+### Conflictos y resolución
 Los conflictos que tuvimos fueron:
 Problemas con la conexión de los sensores, al ejecutar el código en arduino en el monitor serial nos decia “Error,Error, Error”
 La versión final del maquetado va a ser difícil de realizar porque tenemos que hacer todas las conexiones y lograr que funcione bien en cada sector
