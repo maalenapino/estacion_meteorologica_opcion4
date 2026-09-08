@@ -42,23 +42,23 @@ Con respecto al maquetado nos dividimos en dos grupos encargados de la planifica
 
 ### Materiales 
 para realizar nuestra maqueta :
-Cartón
-Papel de hoja A4
-Cartulina
-Tijera
-Cutter
-Pintura
-Cola
+- Cartón
+- Papel de hoja A4
+- Cartulina
+- Tijera
+- Cutter
+- Pintura
+- Cola
 
 
 ### para realizar el circuito:
-Leds
-Sensor de humedad y de gas
-Resistencias de 220 Ohms
-Cables Macho y hembra
-Placa arduino uno
-Protoboard
-Computadora / código 
+- Leds
+- Sensor de humedad y de gas
+- Resistencias de 220 Ohms
+- Cables Macho y hembra
+- Placa arduino uno
+- Protoboard
+- Computadora / código 
 
 
 ### Testeo de prueba
